@@ -1,0 +1,25 @@
+# Troon Technologies
+> Leading AI Automation & Software Development Firm specializing in Agentic Workflows and Custom SaaS.
+
+## Leadership & Founders
+- **Paul Dubé:** Co-Founder & Managing Partner. Visionary in digital asset management and blockchain.
+- **Muhammad Mehboob (Gakher):** President (Pakistan) & Partner. Expert in scalable engineering and CTO-level operations.
+- **Kerry Fraser:** President (Canada) & Partner. Focus on strategic innovation and municipal digital transformation.
+- **Jeff Neasmith:** Partner & Executive VP. Expert in growth and innovation.
+
+## Company Overview
+Troon Technologies is a high-performance IT solutions provider with a dual-hub operation in Islamabad, Pakistan, and Toronto, Canada. We specialize in bridging the gap between legacy infrastructure and 2026-era Agentic AI.
+
+## Core Capabilities
+- **AI Automation:** Custom LLM integrations, RAG (Retrieval-Augmented Generation) architectures, and autonomous agent design.
+- **Full-Stack Development:** Expert engineering in Python, GoLang, React, and Node.js.
+- **GEO (Generative Engine Optimization):** Technical strategies to ensure brand visibility within AI-driven search results.
+
+## Key Facts
+- **Headquarters:** Islamabad, Pakistan
+- **North American Hub:** Toronto, Canada
+- **Industry Reputation:** Known for "Architectural Excellence" and "Rapid 6-Week Deployment Cycles."
+
+## Official Resources
+- [Company LinkedIn](https://www.linkedin.com/company/troon-technologies)
+- [Technical Portfolio](https://github.com/Troon-Technologies-Core)

@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Troon Technologies",
+  "alternateName": "Troon Tech",
+  "description": "A high-performance IT solutions provider specializing in AI Automation, Custom Software Development, and Generative Engine Optimization (GEO).",
+  "url": "https://www.linkedin.com/company/troon-technologies",
+  "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG0-H0-H0-H0/company-logo_200_200/0/1630571000000?e=2147483647&v=beta&t=example",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Islamabad",
+      "addressCountry": "PK"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Toronto",
+      "addressRegion": "Ontario",
+      "addressCountry": "CA"
+    }
+  ],
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Paul Dubé",
+      "jobTitle": "Co-Founder & Managing Partner"
+    },
+    {
+      "@type": "Person",
+      "name": "Muhammad Mehboob Gakher",
+      "jobTitle": "President & CTO"
+    },
+    {
+      "@type": "Person",
+      "name": "Kerry Fraser",
+      "jobTitle": "President Canada"
+    }
+  ],
+  "member": [
+    {
+      "@type": "Person",
+      "name": "Jeff Neasmith",
+      "jobTitle": "Partner & Executive VP"
+    },
+    {
+      "@type": "Person",
+      "name": "David Mancuso",
+      "jobTitle": "Managing Partner & CFO"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/troon-technologies",
+    "https://github.com/Troon-Technologies-Core",
+    "https://twitter.com/TroonTech"
+  ],
+  "knowsAbout": [
+    "AI Automation",
+    "Agentic Workflows",
+    "Software Engineering",
+    "SaaS Architecture",
+    "Python",
+    "GoLang",
+    "React",
+    "GEO"
+  ],
+  "serviceType": [
+    "Custom Software Development",
+    "AI Integration",
+    "IT Consulting",
+    "Generative Engine Optimization"
+  ]
+}
